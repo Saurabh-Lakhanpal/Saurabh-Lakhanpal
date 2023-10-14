@@ -1,4 +1,4 @@
-<h1 align="center">👋 Saurabh lakhanpal</h1>
+<h1 align="center">👋 Saurabh Lakhanpal</h1>
 <h3 align="center">A Data Analyst ! A Business System Analyst ! A UX Designer ! A Natural Change Agent !</h3>
 
 - 🌱 I’m currently learning **Data Analysis**
