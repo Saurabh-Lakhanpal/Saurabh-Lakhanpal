@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 💬 Ask me about **Business Analysis, Payments, ISO20022**
+- 💬 Ask me about **Business Analysis, Data Analysis, Ux Design**
 
 - 📫 How to reach me **ba.saurabh.lakhanpal@gmail.com**
 
