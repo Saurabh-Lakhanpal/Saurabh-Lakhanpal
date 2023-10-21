@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ba.saurabh.lakhanpal@gmail.com**
 
-- 📄 Know about my experiences [https://assets-global.website-files.com/6266faceac3cf783507cf36b/63eaf947f032507dcaa2ca7e_Saurabh%20Lakhanpal%20-%20Feb23.pdf](https://assets-global.website-files.com/6266faceac3cf783507cf36b/63eaf947f032507dcaa2ca7e_Saurabh%20Lakhanpal%20-%20Feb23.pdf)
+- 📄 Know about my experiences [https://yellow-angelita-53.tiiny.site/](https://yellow-angelita-53.tiiny.site/)
 
 - ⚡ Fun fact **I love to talk. I am witty! funny! intellectual !!**
 
