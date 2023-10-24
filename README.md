@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **ba.saurabh.lakhanpal@gmail.com**
 
-- 📄 Know about my experiences [https://yellow-angelita-53.tiiny.site/](https://yellow-angelita-53.tiiny.site/)
-
+- 📄 Know about my experiences [https://saurabh-lakhanpal.github.io/](https://saurabh-lakhanpal.github.io/)
+  
 - ⚡ Fun fact **I love to talk. I am witty! funny! intellectual !!**
 
 <h3 align="left">Connect with me:</h3>
