@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://saurabh-lakhanpal.github.io/](https://saurabh-lakhanpal.github.io/)
   
-- My Resume [https://saurabh.tiiny.site](https://saurabh.tiiny.site)
+- 📄 My Resume Pdf [https://saurabh.tiiny.site](https://saurabh.tiiny.site)
   
 - ⚡ Fun fact **I love to talk. I am witty! funny! intellectual !!**
 
