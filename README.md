@@ -1,7 +1,9 @@
 <h1 align="center">👋 Saurabh lakhanpal</h1>
 <h3 align="center">A Business System Analyst ! A Data Analyst ! A UX Designer ! A Natural Change Agent !</h3>
 
-- 🔭 I’m currently working on **High Value Payments**
+- 🔭 I’m currently working on **Financial Market Data warehouse**
+  
+- In past, I have worked on **High Value payments**, 
 
 - 🌱 I’m currently learning **Data Analysis**
 
