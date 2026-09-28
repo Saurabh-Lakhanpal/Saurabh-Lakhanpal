@@ -7,12 +7,12 @@
 
 ### 🔭 What I'm working on
 
-I'm a **Senior Business Systems Analyst / Product Owner at Citi**, owning the backlog and roadmap for **AMC Accounts (eSales)**, Citi's global account onboarding and reference data platform. It publishes accounts, legal entities, GFCIDs and settlement instructions to a large number of downstream consumers.
+I'm a **Senior Business Systems Analyst / Product Owner at Citi**, owning the backlog and roadmap for Citi's **global account onboarding and reference data platform**, which publishes accounts, legal entities, client identifiers and settlement instructions to a large number of downstream consumers.
 
-- **Tibco Exit Program:** moving enterprise data distribution from Tibco to **Kafka/KaaS** and **ISG Cloud** (event-driven architecture)
-- **Regulatory products:** FinCEN approval automation, tax documentation, **CitiKYC** and **CitiScreening** (OFAC, AML) integrations
+- **Tibco-to-Kafka migration:** moving enterprise data distribution from Tibco to **Kafka** and an **enterprise cloud data platform** (event-driven architecture)
+- **Regulatory products:** FinCEN approval automation, tax documentation, **KYC** and **sanctions screening** (OFAC, AML) platform integrations
 - **Capital markets:** Broadridge integration, SSI synchronization, ACK/NACK reconciliation, **T+1 settlement** readiness
-- **Team enablement:** built the AMC Accounts Knowledge Center and a BA Knowledge Library
+- **Team enablement:** built the account platform Knowledge Center and a BA Knowledge Library
 
 ### 💳 Before Citi
 
