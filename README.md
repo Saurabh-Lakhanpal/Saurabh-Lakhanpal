@@ -1,5 +1,6 @@
 <h1 align="center">👋 Saurabh Lakhanpal</h1>
-<h3 align="center">Senior Business Systems Analyst & Product Owner | Capital Markets, Payments & Data</h3>
+<h3 align="center">Senior Product Owner | Technical Product Manager | Lead Business Analyst</h3>
+<p align="center">Capital markets, payments and data</p>
 
 <p align="center">10 years turning complex business and regulatory needs into technical products at <b>Citi</b>, <b>TD Bank</b> and <b>RBC</b>, with earlier delivery in telecom, retail and insurance.</p>
 
