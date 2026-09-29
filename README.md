@@ -1,12 +1,14 @@
-<h1 align="center">Saurabh Lakhanpal</h1>
+<h1 align="center">👋 Saurabh Lakhanpal</h1>
 <h3 align="center">Senior Product Owner | Technical Product Manager | Lead Business Analyst</h3>
-<p align="center">Toronto, ON | (437) 985-1525 | ba.saurabh.lakhanpal@gmail.com | saurabhlakhanpal.webflow.io | Canadian Citizen</p>
+<p align="center">Toronto, ON | (437) 985-1525 | ba.saurabh.lakhanpal@gmail.com | <a href="https://saurabhlakhanpal.webflow.io/">saurabhlakhanpal.webflow.io</a> | Canadian Citizen</p>
 
-### Professional Summary
+---
+
+### 🔭 Professional Summary
 
 Senior Product Owner and Lead Business Analyst with 10 years of experience delivering technology products in capital markets, payments and financial services at Citi, TD Bank and RBC, with earlier delivery in telecom, retail and insurance. Brings a technical edge to product ownership: event-driven architecture and messaging migration, REST APIs and microservices, cloud data platforms, ISO 20022 payment engines, reference data and data governance, and hands-on SQL data analysis. Owns product backlogs and roadmaps for regulatory programs (document management, T+1 settlement) and contributes to KYC, sanctions screening and Broadridge integrations, turning complex business and regulatory needs into clear, testable user stories and leading cross-functional teams from discovery through UAT and production release. Certified SAFe 6.0 Agilist (SA, AI-Empowered Leading SAFe), AI-Empowered SAFe POPM, CSPO and CCBA, and a graduate of the University of Toronto Data Analytics and UX/UI Design Boot Camps.
 
-### Career Highlights
+### 🏆 Career Highlights
 
 - **Enterprise event-driven migration:** Led business delivery of Citi's strategic Tibco decommissioning program, moving the account platform's enterprise data distribution to Kafka and the enterprise cloud data platform and onboarding numerous downstream consumer applications with minimal business disruption.
 - **Regulatory product ownership:** Own backlogs and roadmaps for regulatory document management and T+1 settlement programs on a global account reference data platform, and contribute to KYC and sanctions screening (OFAC, AML) integrations.
@@ -16,18 +18,7 @@ Senior Product Owner and Lead Business Analyst with 10 years of experience deliv
 - **AI and UX innovation:** Lead BA on an agentic AI data quality project, and BA and UX designer for screen redesigns on the enterprise React design system, working directly with stakeholders and SMEs.
 - **Team enablement and leadership:** Built the account platform Knowledge Center and BA Knowledge Library, led a Scrum pod at TD, filled in as Product Owner, and mentored junior analysts.
 
-### Skills
-
-- **Product Management:** Product roadmap, product backlog management and prioritization, product vision, release planning, backlog refinement, sprint planning, SAFe 6.0 (SA, POPM), Scrum, Agile, PDLC and SDLC, stakeholder management, vendor management (RFI, RFP, SOW)
-- **Architecture and Integration:** Event-driven architecture, Kafka, Tibco, message queues (MQ), microservices, REST APIs, API design and API user stories, JSON, XML, system integration, enterprise cloud data platforms, Oracle Cloud.
-- **Data:** Data analytics (UofT Data Analytics Boot Camp), SQL (SQL Server, MySQL), Python, data mapping, data modeling (conceptual and logical), ETL rules, data governance, data quality, data profiling, reference data management
-- **Business Analysis:** BRD, FRD, SRS, user stories, acceptance criteria, BDD (Gherkin, Cucumber), use cases, functional specifications, solution and interface design, requirements traceability matrix (RTM), gap analysis, impact analysis, feasibility analysis, SWOT, BPMN, UML, sequence diagrams, process mapping, business process reengineering
-- **AI and UX:** Agentic AI use cases, AI-assisted data validation, unstructured data extraction, human-in-the-loop review, Figma prototyping, React design system standards, user research, usability testing
-- **Testing and Delivery:** UAT planning and governance, SIT, regression testing, API testing (Postman), test strategy and test plan review, defect triage, release management, change management (ITSM), production readiness, risk and RAID management
-- **Domain:** Capital markets, reference data (accounts, legal entities, client identifiers), institutional brokerage, T+1 settlement, KYC, AML, sanctions screening (OFAC), regulatory documentation, payments (ISO 20022, SWIFT MT/MX, Fedwire, Interac, ACH), wealth management, insurance, telecom
-- **Tools:** Jira, Confluence, JTMF, Azure DevOps, Postman, SQL Server Management Studio, MS Visio, Lucidchart, Miro, Figma, Adobe XD, Salesforce, Guidewire PolicyCenter, MS Project, MS Office
-
-### Professional Experience
+### 💼 Professional Experience
 
 - **Senior Business Systems Analyst / Product Owner** | Citi, Toronto, ON | Oct 2023 - Present
 - **Senior Business Systems Analyst** | TD Bank, Toronto, ON | Sep 2022 - Oct 2023
@@ -36,7 +27,20 @@ Senior Product Owner and Lead Business Analyst with 10 years of experience deliv
 - **Business Systems Analyst** | Best Buy, Toronto, ON | Jul 2017 - Dec 2018
 - **Business Analyst** | Blue Cross, Toronto, ON | Aug 2016 - Jun 2017
 
-### Certifications
+### 🧰 Skills
+
+| Skills | |
+|---|---|
+| Product Management | Product roadmap, product backlog management and prioritization, product vision, release planning, backlog refinement, sprint planning, SAFe 6.0 (SA, POPM), Scrum, Agile, PDLC and SDLC, stakeholder management, vendor management (RFI, RFP, SOW) |
+| Architecture and Integration | Event-driven architecture, Kafka, Tibco, message queues (MQ), microservices, REST APIs, API design and API user stories, JSON, XML, system integration, enterprise cloud data platforms, Oracle Cloud. |
+| Data | Data analytics (UofT Data Analytics Boot Camp), SQL (SQL Server, MySQL), Python, data mapping, data modeling (conceptual and logical), ETL rules, data governance, data quality, data profiling, reference data management |
+| Business Analysis | BRD, FRD, SRS, user stories, acceptance criteria, BDD (Gherkin, Cucumber), use cases, functional specifications, solution and interface design, requirements traceability matrix (RTM), gap analysis, impact analysis, feasibility analysis, SWOT, BPMN, UML, sequence diagrams, process mapping, business process reengineering |
+| AI and UX | Agentic AI use cases, AI-assisted data validation, unstructured data extraction, human-in-the-loop review, Figma prototyping, React design system standards, user research, usability testing |
+| Testing and Delivery | UAT planning and governance, SIT, regression testing, API testing (Postman), test strategy and test plan review, defect triage, release management, change management (ITSM), production readiness, risk and RAID management |
+| Domain | Capital markets, reference data (accounts, legal entities, client identifiers), institutional brokerage, T+1 settlement, KYC, AML, sanctions screening (OFAC), regulatory documentation, payments (ISO 20022, SWIFT MT/MX, Fedwire, Interac, ACH), wealth management, insurance, telecom |
+| Tools | Jira, Confluence, JTMF, Azure DevOps, Postman, SQL Server Management Studio, MS Visio, Lucidchart, Miro, Figma, Adobe XD, Salesforce, Guidewire PolicyCenter, MS Project, MS Office |
+
+### 🏅 Certifications
 
 - Certified SAFe 6.0 Agilist (SA), AI-Empowered Leading SAFe | Scaled Agile, Inc.
 - AI-Empowered SAFe Product Owner/Product Manager (POPM) | Scaled Agile, Inc.
@@ -44,7 +48,7 @@ Senior Product Owner and Lead Business Analyst with 10 years of experience deliv
 - Certification of Capability in Business Analysis (CCBA) | IIBA
 - Entry Certificate in Business Analysis (ECBA) | IIBA
 
-### Education
+### 🎓 Education
 
 - Data Analytics Boot Camp (6-month certificate) | University of Toronto School of Continuing Studies | 2025
 - Master of Business Administration (MBA) | Sikkim Manipal University | 2015
@@ -52,11 +56,10 @@ Senior Product Owner and Lead Business Analyst with 10 years of experience deliv
 - Bachelor of Hotel Management and Catering Technology | Gautam Buddh Technical University | 2012
 - Diploma, Business Administration | Indian Institute of Planning and Management
 
+---
+
 <p align="left">
-<a href="https://saurabh-lakhanpal.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lakhanpal-saurabh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="" width="40" height="40"/>
-</p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="" width="40" height="40"/> </a> </p>
