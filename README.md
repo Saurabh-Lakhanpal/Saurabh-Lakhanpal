@@ -8,13 +8,13 @@
 
 ### 🔭 What I'm working on
 
-I'm a **Senior Business Systems Analyst / Product Owner at Citi**, owning the backlog and roadmap for Citi's **global account onboarding and reference data platform**, which publishes accounts, legal entities, client identifiers and settlement instructions to a large number of downstream consumers.
+I'm a **Senior Business Systems Analyst / Product Owner at Citi**, owning the backlog and roadmap for Citi's **global account onboarding and reference data platform**, which publishes accounts, legal entities and client identifiers to a large number of downstream consumers.
 
 - **Tibco-to-Kafka migration:** moving enterprise data distribution from Tibco to **Kafka** and an **enterprise cloud data platform** (event-driven architecture)
-- **Regulatory products:** FinCEN approval automation, tax documentation and **T+1 settlement** readiness
+- **Regulatory products:** regulatory document management and **T+1 settlement** readiness
 - **Integrations:** contributing to **KYC**, **sanctions screening** (OFAC, AML) and **Broadridge** integrations
 - **Release coordination:** lead BA release coordinator for major and minor releases (Jira readiness, dashboards, UAT regression, change management)
-- **Agentic AI:** lead BA on an AI data quality validation proof of concept with human-in-the-loop review
+- **Agentic AI:** lead BA on an agentic AI data quality project with human-in-the-loop review
 - **UX design:** BA and UX designer for screen redesigns on an enterprise React design system, plus architecture and funding decks for directors
 - **Team enablement:** built the account platform Knowledge Center and a BA Knowledge Library
 
@@ -27,13 +27,13 @@ I'm a **Senior Business Systems Analyst / Product Owner at Citi**, owning the ba
 
 | Area | Focus |
 |---|---|
-| Product ownership | Backlogs, roadmaps, release coordination, PI planning, SAFe 6.0 (SA, POPM), Scrum |
+| Product ownership | Backlogs, roadmaps, release coordination, iteration planning, SAFe 6.0 (SA, POPM), Scrum |
 | Technical requirements | API user stories, solution and interface design, sequence diagrams, data mapping |
 | Architecture and data | Kafka, microservices, REST APIs, cloud data platforms, SQL, data governance |
-| Domain | Reference data, KYC, sanctions, FinCEN, T+1, ISO 20022, SWIFT MT/MX |
+| Domain | Reference data, KYC, sanctions, regulatory documentation, T+1, ISO 20022, SWIFT MT/MX |
 | Delivery | UAT governance, SIT and regression, BDD, release readiness, change management |
 | AI and UX | Agentic AI use cases, human-in-the-loop design, Figma prototyping, design systems, user research |
-| Data analytics | SQL, Python, BigQuery, data profiling and data quality |
+| Data analytics | SQL, Python, data profiling and data quality |
 
 ### 🏅 Certifications
 
