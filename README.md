@@ -1,62 +1,62 @@
-<h1 align="center">👋 Saurabh Lakhanpal</h1>
+<h1 align="center">Saurabh Lakhanpal</h1>
 <h3 align="center">Senior Product Owner | Technical Product Manager | Lead Business Analyst</h3>
-<p align="center">Capital markets, payments and data</p>
+<p align="center">Toronto, ON | (437) 985-1525 | ba.saurabh.lakhanpal@gmail.com | saurabhlakhanpal.webflow.io | Canadian Citizen</p>
 
-<p align="center">10 years turning complex business and regulatory needs into technical products at <b>Citi</b>, <b>TD Bank</b> and <b>RBC</b>, with earlier delivery in telecom, retail and insurance.</p>
+### Professional Summary
 
----
+Senior Product Owner and Lead Business Analyst with 10 years of experience delivering technology products in capital markets, payments and financial services at Citi, TD Bank and RBC, with earlier delivery in telecom, retail and insurance. Brings a technical edge to product ownership: event-driven architecture and messaging migration, REST APIs and microservices, cloud data platforms, ISO 20022 payment engines, reference data and data governance, and hands-on SQL data analysis. Owns product backlogs and roadmaps for regulatory programs (document management, T+1 settlement) and contributes to KYC, sanctions screening and Broadridge integrations, turning complex business and regulatory needs into clear, testable user stories and leading cross-functional teams from discovery through UAT and production release. Certified SAFe 6.0 Agilist (SA, AI-Empowered Leading SAFe), AI-Empowered SAFe POPM, CSPO and CCBA, and a graduate of the University of Toronto Data Analytics and UX/UI Design Boot Camps.
 
-### 🔭 What I'm working on
+### Career Highlights
 
-I'm a **Senior Business Systems Analyst / Product Owner at Citi**, owning the backlog and roadmap for Citi's **global account onboarding and reference data platform**, which publishes accounts, legal entities and client identifiers to a large number of downstream consumers.
+- **Enterprise event-driven migration:** Led business delivery of Citi's strategic Tibco decommissioning program, moving the account platform's enterprise data distribution to Kafka and the enterprise cloud data platform and onboarding numerous downstream consumer applications with minimal business disruption.
+- **Regulatory product ownership:** Own backlogs and roadmaps for regulatory document management and T+1 settlement programs on a global account reference data platform, and contribute to KYC and sanctions screening (OFAC, AML) integrations.
+- **Payment’s modernization:** Lead BSA for TD's ISO 20022-compliant SWIFT/Fedwire wire payment engine, and payment gateway and Kafka-based payment API work at RBC.
+- **Platform integrations:** Contributed to the Broadridge integration program, and to an API and web services middle layer for KYC and sanctions screening integrations.
+- **University of Toronto boot camps:** Completed the UX/UI Design Boot Camp and the School of Continuing Studies Data Analytics Boot Camp, pairing user research and design with hands-on data analysis.
+- **AI and UX innovation:** Lead BA on an agentic AI data quality project, and BA and UX designer for screen redesigns on the enterprise React design system, working directly with stakeholders and SMEs.
+- **Team enablement and leadership:** Built the account platform Knowledge Center and BA Knowledge Library, led a Scrum pod at TD, filled in as Product Owner, and mentored junior analysts.
 
-- **Tibco-to-Kafka migration:** moving enterprise data distribution from Tibco to **Kafka** and an **enterprise cloud data platform** (event-driven architecture)
-- **Regulatory products:** regulatory document management and **T+1 settlement** readiness
-- **Integrations:** contributing to **KYC**, **sanctions screening** (OFAC, AML) and **Broadridge** integrations
-- **Release coordination:** lead BA release coordinator for major and minor releases (Jira readiness, dashboards, UAT regression, change management)
-- **Agentic AI:** lead BA on an agentic AI data quality project with human-in-the-loop review
-- **UX design:** BA and UX designer for screen redesigns on an enterprise React design system, plus architecture and funding decks for directors
-- **Team enablement:** built the account platform Knowledge Center and a BA Knowledge Library
+### Skills
 
-### 💳 Before Citi
+- **Product Management:** Product roadmap, product backlog management and prioritization, product vision, release planning, backlog refinement, sprint planning, SAFe 6.0 (SA, POPM), Scrum, Agile, PDLC and SDLC, stakeholder management, vendor management (RFI, RFP, SOW)
+- **Architecture and Integration:** Event-driven architecture, Kafka, Tibco, message queues (MQ), microservices, REST APIs, API design and API user stories, JSON, XML, system integration, enterprise cloud data platforms, Oracle Cloud.
+- **Data:** Data analytics (UofT Data Analytics Boot Camp), SQL (SQL Server, MySQL), Python, data mapping, data modeling (conceptual and logical), ETL rules, data governance, data quality, data profiling, reference data management
+- **Business Analysis:** BRD, FRD, SRS, user stories, acceptance criteria, BDD (Gherkin, Cucumber), use cases, functional specifications, solution and interface design, requirements traceability matrix (RTM), gap analysis, impact analysis, feasibility analysis, SWOT, BPMN, UML, sequence diagrams, process mapping, business process reengineering
+- **AI and UX:** Agentic AI use cases, AI-assisted data validation, unstructured data extraction, human-in-the-loop review, Figma prototyping, React design system standards, user research, usability testing
+- **Testing and Delivery:** UAT planning and governance, SIT, regression testing, API testing (Postman), test strategy and test plan review, defect triage, release management, change management (ITSM), production readiness, risk and RAID management
+- **Domain:** Capital markets, reference data (accounts, legal entities, client identifiers), institutional brokerage, T+1 settlement, KYC, AML, sanctions screening (OFAC), regulatory documentation, payments (ISO 20022, SWIFT MT/MX, Fedwire, Interac, ACH), wealth management, insurance, telecom
+- **Tools:** Jira, Confluence, JTMF, Azure DevOps, Postman, SQL Server Management Studio, MS Visio, Lucidchart, Miro, Figma, Adobe XD, Salesforce, Guidewire PolicyCenter, MS Project, MS Office
 
-- **TD Bank:** lead BSA for the ISO 20022-compliant SWIFT/Fedwire wire payment engine (Finastra, ACI), payment APIs and embedded payments discovery
-- **RBC:** payment gateway (SWIFT, Fedwire, Interac, ACH), Kafka-based payment APIs, Open Payment Framework, and banking insights with UX research
+### Professional Experience
 
-### 🧰 What I bring
+- **Senior Business Systems Analyst / Product Owner** | Citi, Toronto, ON | Oct 2023 - Present
+- **Senior Business Systems Analyst** | TD Bank, Toronto, ON | Sep 2022 - Oct 2023
+- **Senior Business Systems Analyst** | Royal Bank of Canada, Toronto, ON | Oct 2020 - Sep 2022
+- **Senior Business Analyst** | Bell Canada, Toronto, ON | Jan 2019 - Sep 2020
+- **Business Systems Analyst** | Best Buy, Toronto, ON | Jul 2017 - Dec 2018
+- **Business Analyst** | Blue Cross, Toronto, ON | Aug 2016 - Jun 2017
 
-| Area | Focus |
-|---|---|
-| Product ownership | Backlogs, roadmaps, release coordination, iteration planning, SAFe 6.0 (SA, POPM), Scrum |
-| Technical requirements | API user stories, solution and interface design, sequence diagrams, data mapping |
-| Architecture and data | Kafka, microservices, REST APIs, cloud data platforms, SQL, data governance |
-| Domain | Reference data, KYC, sanctions, regulatory documentation, T+1, ISO 20022, SWIFT MT/MX |
-| Delivery | UAT governance, SIT and regression, BDD, release readiness, change management |
-| AI and UX | Agentic AI use cases, human-in-the-loop design, Figma prototyping, design systems, user research |
-| Data analytics | SQL, Python, data profiling and data quality |
+### Certifications
 
-### 🏅 Certifications
+- Certified SAFe 6.0 Agilist (SA), AI-Empowered Leading SAFe | Scaled Agile, Inc.
+- AI-Empowered SAFe Product Owner/Product Manager (POPM) | Scaled Agile, Inc.
+- Certified Scrum Product Owner (CSPO) | Scrum Alliance
+- Certification of Capability in Business Analysis (CCBA) | IIBA
+- Entry Certificate in Business Analysis (ECBA) | IIBA
 
-- Certified SAFe 6.0 Agilist (SA), AI-Empowered Leading SAFe
-- AI-Empowered SAFe Product Owner/Product Manager (POPM)
-- Certified Scrum Product Owner (CSPO)
-- IIBA CCBA and ECBA
-- Data Analytics Boot Camp, University of Toronto School of Continuing Studies (2025)
-- UX/UI Design Boot Camp, University of Toronto (2021)
+### Education
 
-### 🔗 Find me
+- Data Analytics Boot Camp (6-month certificate) | University of Toronto School of Continuing Studies | 2025
+- Master of Business Administration (MBA) | Sikkim Manipal University | 2015
+- UX/UI Design Boot Camp (certificate) | University of Toronto | 2021
+- Bachelor of Hotel Management and Catering Technology | Gautam Buddh Technical University | 2012
+- Diploma, Business Administration | Indian Institute of Planning and Management
 
-- 📄 Experience and projects: [saurabh-lakhanpal.github.io](https://saurabh-lakhanpal.github.io/)
-- 🎨 UX portfolio: [saurabhlakhanpal.webflow.io](https://saurabhlakhanpal.webflow.io/)
-- 📃 Resume: [View and download](https://pdflink.to/saurabh-lakhanpal-resume/)
-- 📫 ba.saurabh.lakhanpal@gmail.com
-- 💬 Ask me about product ownership, payments, capital markets reference data and data analysis
-- ⚡ Fun fact: I love to talk. Witty, funny and curious.
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lakhanpal-saurabh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakhanpal-saurabh/" height="30" width="40" /></a>
+<a href="https://saurabh-lakhanpal.github.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakhanpal-saurabh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a> <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="" width="40" height="40"/>
+</p>
