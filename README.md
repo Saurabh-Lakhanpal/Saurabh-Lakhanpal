@@ -10,7 +10,7 @@ Senior Product Owner and Lead Business Analyst with 10 years of experience deliv
 
 ### 🏆 Career Highlights
 
-- **Enterprise event-driven migration:** Led business delivery of Citi's strategic Tibco decommissioning program, moving the account platform's enterprise data distribution to Kafka and the enterprise cloud data platform and onboarding numerous downstream consumer applications with minimal business disruption.
+- **Enterprise event-driven migration:** Led business delivery of Citi's strategic Information Bus decommissioning program, moving the account platform's enterprise data distribution to Kafka and the enterprise cloud data platform and onboarding numerous downstream consumer applications with minimal business disruption.
 - **Regulatory product ownership:** Own backlogs and roadmaps for regulatory document management and T+1 settlement programs on a global account reference data platform, and contribute to KYC and sanctions screening (OFAC, AML) integrations.
 - **Payment’s modernization:** Lead BSA for TD's ISO 20022-compliant SWIFT/Fedwire wire payment engine, and payment gateway and Kafka-based payment API work at RBC.
 - **Platform integrations:** Contributed to the Broadridge integration program, and to an API and web services middle layer for KYC and sanctions screening integrations.
@@ -37,7 +37,7 @@ Senior Product Owner and Lead Business Analyst with 10 years of experience deliv
 | Data Analytics Tools | Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Keras, PySpark, PostgreSQL, SQLAlchemy, MongoDB, Flask, BeautifulSoup, D3.js, Plotly, Leaflet, JavaScript, Bootstrap, Tableau, Excel, VBA |
 | Business Analysis | BRD, FRD, SRS, user stories, acceptance criteria, BDD (Gherkin, Cucumber), use cases, functional specifications, solution and interface design, requirements traceability matrix (RTM), gap analysis, impact analysis, feasibility analysis, SWOT, BPMN, UML, sequence diagrams, process mapping, business process reengineering |
 | AI and UX | Agentic AI use cases, AI-assisted data validation, unstructured data extraction, human-in-the-loop review, Figma prototyping, React design system standards, user research, usability testing |
-| Testing and Delivery | UAT planning and governance, SIT, regression testing, API testing (Postman), test strategy and test plan review, defect triage, release management, change management (ITSM), production readiness, risk and RAID management |
+| Testing and Delivery | UAT planning & governance, SIT, regression testing, API testing (Postman), test strategy & plans, defect triage, release management, change management (ITSM), production readiness, RISK & RAID management |
 | Domain | Capital markets, reference data (accounts, legal entities, client identifiers), institutional brokerage, T+1 settlement, KYC, AML, sanctions screening (OFAC), regulatory documentation, payments (ISO 20022, SWIFT MT/MX, Fedwire, Interac, ACH), wealth management, insurance, telecom |
 | Tools | Jira, Confluence, JTMF, Azure DevOps, Postman, SQL Server Management Studio, MS Visio, Lucidchart, Miro, Figma, Adobe XD, Salesforce, Guidewire PolicyCenter, MS Project, MS Office |
 
